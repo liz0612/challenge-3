@@ -127,9 +127,11 @@ Click the "Add Employees" button to begin adding employee data.
 
 Screenshots
 
-![image](./images/Screenshot%202025-01-27%20at%208.09.26 PM.png)
-![image](./images/Screenshot%202025-01-27%20at%208.09.42 PM.png)
-![image](./images/Screenshot%202025-01-27%20at%208.09.51 PM.png)
+![image](./IMAGES/Screenshot%202025-01-28%20at%209.59.12 AM.png)
+![image](./IMAGES/Screenshot%202025-01-28%20at%209.59.27 AM.png)
+![image](./IMAGES/Screenshot%202025-01-28%20at%209.59.30 AM.png)
+Employee Payroll Tracker
+![image](./IMAGES/Screenshot%202025-01-28%20at%209.59.34 AM.png)
 Employee Payroll Tracker
 
 
